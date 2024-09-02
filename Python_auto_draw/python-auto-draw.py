@@ -278,4 +278,13 @@ while distance > 0:
   display: flex;
   justify-content: space-around;
   align-items: center;
-  min-height: 60vh;
+  min-h/////////////
+/////////////
+//////////////
+//////////
+////////
+//////////////
+/////////
+/////
+/////////
+///////////eight: 60vh;
